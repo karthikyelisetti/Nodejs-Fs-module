@@ -1,7 +1,0 @@
-Hello World!
-a.we are the input text
-b.data updating in the sample file
-c.displaying the output in sample file
-d.This is a sample text file
-e.updating the sample file with details
-f.Completed
