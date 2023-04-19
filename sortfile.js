@@ -6,7 +6,7 @@ const outputDataFile = process.argv[3];
 
 // checking if the input and output file path is provided
 if (process.argv.length < 3) {
-    console.error("Please provide the valid input file path.");
+    console.error("Please provide the valid input and output file path.");
     process.exit(1);
 } else if(process.argv.length >= 3 && process.argv.length < 4) {
     console.error("Please provide the valid output file path.");
