@@ -1,0 +1,12 @@
+# Sample welcome text
+Hello World!
+d.This is a sample text file
+a.we are the input text
+c.displaying the output in sample file
+# update the details here
+b.data updating in the sample file
+# final output
+e.updating the sample file with details
+# status
+f.Completed
+
